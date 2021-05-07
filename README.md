@@ -1,0 +1,2 @@
+# Carousel.slider
+Kaydırmalı Slider
